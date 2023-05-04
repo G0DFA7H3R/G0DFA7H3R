@@ -56,7 +56,7 @@ char saveToFile()
    printf("Enter source file name:"); //File Name
    scanf("%s",sfname);
    sfp = fopen(sfname,"r");
-   
+       
    if (sfp == NULL)
    {
    printf("File Saved Successfully:%s",sfname);
