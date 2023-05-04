@@ -4,8 +4,6 @@
 #include<string.h>
 #include<ctype.h>
 
-//Ibrahim Jami, G01296681 , Homework 5
-
 struct node   // Structure
 { 
    int data;
